@@ -1,17 +1,21 @@
 # Getting Started
 
-### Foundation
+## Foundation
 
-> Structs and Classes
+### Optional?
+
+- [Optional?](http://swift.ayaka.me/posts/2015/10/5/optional)
+
+### Structs and Classes
 
 - [When to Use Swift Structs and Classes](https://www.mikeash.com/pyblog/friday-qa-2015-07-17-when-to-use-swift-structs-and-classes.html)
 
-> Generics
+### Generics
 
 - [An Introduction to Generics](http://swift.ayaka.me/posts/2015/10/21/generics)
 
 - [A Sanatorium for Swift Generics](http://natecook.com/blog/2015/03/a-sanatorium-for-swift-generics/)
 
-> where
+### where
 
 - [Where "where" may be used?](http://blog.krzyzanowskim.com/2015/11/13/where-where-may-be-used/)
