@@ -19,3 +19,6 @@
 ### where
 
 - [Where "where" may be used?](http://blog.krzyzanowskim.com/2015/11/13/where-where-may-be-used/)
+
+### Higher-order functions
+- [Higher-order functions in Swift](http://ijoshsmith.com/2015/12/09/higher-order-functions-in-swift/)
