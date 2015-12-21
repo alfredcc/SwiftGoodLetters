@@ -22,3 +22,8 @@
 
 ### Higher-order functions
 - [Higher-order functions in Swift](http://ijoshsmith.com/2015/12/09/higher-order-functions-in-swift/)
+
+### Swift thoughts
+- [Swifty methods](http://radex.io/swift/methods/)
+- [Swifty APIs: NSTimer](http://radex.io/swift/nstimer/)
+- [Swifty APIs: NSUserDefaults](http://radex.io/swift/nsuserdefaults/)
